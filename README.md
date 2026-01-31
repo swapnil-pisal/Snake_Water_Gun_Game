@@ -14,9 +14,13 @@ Ide -:
 </br>
 
 How to Run -:
+
 1)Run the code 
+
 2)Enter the User input between 1 to 3 Hit enter button
+
 3)Then computer choose between 1 to 3
+
 4)Result will be Display
 
 
